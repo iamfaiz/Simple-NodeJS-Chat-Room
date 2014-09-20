@@ -1,0 +1,16 @@
+{
+  "name": "ChatRoom",
+  "version": "1.0.0",
+  "description": "Real Time Chat Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Faiz Ahmed <iamfaizahmed123@gmail.com> (http://google.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.9.4",
+    "mysql": "git://github.com/felixge/node-mysql",
+    "socket.io": "^1.1.0"
+  }
+}
